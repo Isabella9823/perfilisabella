@@ -1,12 +1,12 @@
 html {
-    background:rgb(239, 240, 227)
+    background-color:rgb(239, 240, 227);
 }
 
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#imagem {
+image {
     text-align: center;
    
 }
