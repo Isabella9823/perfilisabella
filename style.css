@@ -9,3 +9,8 @@ p{
 #imagem {
     text-align: center;
 }
+
+caption{
+    color:black;
+    width: 20px;
+}
