@@ -17,3 +17,7 @@ caption{
 tr{
     color:#c26861;
 }
+
+table{
+    border-radius: 10%;
+}
