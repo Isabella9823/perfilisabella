@@ -49,4 +49,7 @@ figure{
 figcaption{
     background-color: black;
     color: white;
+    font-style: italic;
+    margin: auto;
+    text-align: center;
 }
