@@ -37,3 +37,11 @@ formularioc{
     color:#ff9900;
     font-size: 18px;
 }
+
+figure{
+    border: 1px;
+    color:#cccccc;
+    width: 50%;
+    padding: 4px;
+    margin: auto;
+}
