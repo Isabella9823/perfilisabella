@@ -66,13 +66,18 @@ table{
 td, th {
     padding: .7em;
     margin: 0;
-    border: 1px solid #ffffff;
+     /*border: 1px solid #ccc;*/
     text-align: center;
   }
   
   tr{
     background-color: #660000;
   }
+
   td{
     background-color: #f0f0f0;
+  }
+
+  th{
+    color:#ffffff
   }
