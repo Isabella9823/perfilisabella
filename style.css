@@ -52,3 +52,7 @@ figcaption{
     margin: auto;
     text-align: center;
 }
+
+figure img{
+    border-radius: 50%;
+}
