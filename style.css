@@ -39,8 +39,7 @@ formularioc{
 }
 
 figure{
-    border: 1px solid black ;
-    color:#cccccc;
+    border: 1px solid #cccccc ;
     width: 50%;
     padding: 4px;
     margin: auto;
