@@ -79,6 +79,10 @@ td, th {
     color:#ffffff
   }
 
+  .ti{
+    text-align:left;
+  }
+
   .boxm{
     width: 320px;
     padding: 10px;
