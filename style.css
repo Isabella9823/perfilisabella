@@ -19,18 +19,18 @@ tr{
 }
 
 
-formularioa{
+.formularioa{
     color:#006600;
     font-size: 18px;
     
 }
 
-formulariob{
+.formulariob{
    color:#0000ff;
    font-size: 18px;
 }
 
-formularioc{
+.formularioc{
     color:#ff9900;
     font-size: 18px;
 }
@@ -90,6 +90,11 @@ td, th {
     text-align: center;
   }
 
+  .formu{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px #888888;
+  }
 
 
   
