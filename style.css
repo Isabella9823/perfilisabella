@@ -95,6 +95,7 @@ td, th {
     padding: 50px;
     border: 1px solid gray;
     margin: auto;
+    margin-bottom: auto;
   }
 
   .tf{
