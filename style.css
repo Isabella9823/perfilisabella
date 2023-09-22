@@ -92,7 +92,7 @@ td, th {
 
   .formu{
     width: 320px;
-    padding: 50px;
+    padding: 70px;
     border: 1px solid gray;
     margin: auto;
   }
@@ -111,8 +111,7 @@ td, th {
    padding: 12px 12px;
    border: none;
    border-radius: 4px; 
-   bottom: right;
-
+   
   }
 
   .tf{
