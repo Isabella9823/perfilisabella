@@ -133,7 +133,11 @@ td, th {
   .boxlay{
   text-align:center;
   }
-
- 
-
+    .eboxm{
+     background-color: black;
+     color: white;
+     font-style: italic;
+     margin: auto;
+     text-align: center;
+}
   
