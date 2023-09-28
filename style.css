@@ -90,6 +90,10 @@ td, th {
     text-align: center;
   }
 
+  .tf{
+    text-align: center;
+  }
+
   .formu{
     width: 400px;
     padding: 40px;
