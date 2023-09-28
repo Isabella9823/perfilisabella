@@ -121,6 +121,7 @@ td, th {
       padding: 10px;
       border: 1px solid gray;
       margin: auto;
+      float: left;
   }
 
  
