@@ -126,6 +126,11 @@ td, th {
 .ali{
   text-align: center;
 }
+ .lb{
+  background-color: #3d3c3c;
+  padding: 20px;
+  text-align: center;
+}
 
   .laybox{
       width: 320px;
