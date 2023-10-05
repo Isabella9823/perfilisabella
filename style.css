@@ -130,6 +130,7 @@ td, th {
   background-color: #3d3c3c;
   padding: 15px;
   text-align: center;
+  color: white;
 }
 
   .laybox{
@@ -145,6 +146,7 @@ td, th {
   .boxlay{
   text-align:center;
   }
+
     .eboxm{
      background-color: black;
      color: white;
