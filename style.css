@@ -131,7 +131,6 @@ td, th {
   padding: 40px;
   text-align: center;
   color: white;
-  padding-top: 30px;
 }
 
   .laybox{
@@ -143,6 +142,7 @@ td, th {
       margin-top: 10px;
       margin-right: 10px;
       color: black;
+      padding-top: 30px;
   }
 
   .boxlay{
