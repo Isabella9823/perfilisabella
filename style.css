@@ -94,6 +94,10 @@ td, th {
     text-align: center;
   }
 
+  .al{
+    text-align: center;
+  }
+
   .formu{
     width: 400px;
     padding: 40px;
@@ -118,6 +122,10 @@ td, th {
    margin: auto;
    float: right;
   }
+
+.ali{
+  text-align: center;
+}
 
   .laybox{
       width: 320px;
@@ -145,5 +153,7 @@ td, th {
      outline: 1px solid gray;
      outline-offset: 5px;
   }
+
+
 
   
