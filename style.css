@@ -142,5 +142,8 @@ td, th {
      margin-bottom: 100px;
      margin-right: 600px;
      margin-left: 600px;
+     outline: 1px solid gray;
+     outline-offset: 5px;
   }
+
   
